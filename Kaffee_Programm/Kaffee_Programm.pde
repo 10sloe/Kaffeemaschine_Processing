@@ -23,8 +23,4 @@ void keyPressed()
   {
     k.tasseDruecken();
   }
-  if (key == 'n')
-  {
-    k.tasseNehmen();
-  }
 }
